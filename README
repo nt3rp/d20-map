@@ -1,0 +1,5 @@
+A tool for use in keeping track of a game world.
+
+Probably will use a different tools for dungeons; haven't thought about how those will work.
+
+TODO: Look into TileMill and Google Maps API [as recommended here](http://stackoverflow.com/questions/12272119/google-maps-api-custom-tiles-for-fictional-video-game-world)
